@@ -16,9 +16,6 @@
   <a href="https://www.python.org/">
     <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="50">
   </a>
-    <a href="https://www.python.org/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="50">
-  </a>
 </p>
 
 ---
@@ -37,6 +34,9 @@
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://logo-base.com/logo/visual_studio_code_logo_icon.png" alt="VS Code" width="50">
+  </a>
+    W<a href="https://www.jetbrains.com/webstorm/">
+    <img src="https://icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png" alt="VS Code" width="50">
   </a>
 </p>
 
