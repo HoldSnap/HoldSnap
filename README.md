@@ -35,9 +35,10 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://logo-base.com/logo/visual_studio_code_logo_icon.png" alt="VS Code" width="50">
   </a>
-    <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://iconscout.com/free-icon/webstorm-3521803" alt="Code" width="50">
-  </a>
+<a href="https://www.jetbrains.com/webstorm/">
+  <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="Code" width="50">
+</a>
+
 </p>
 
 ---
