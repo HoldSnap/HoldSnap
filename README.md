@@ -7,10 +7,16 @@
 ## Languages
 
 <p align="left">
+    <a href="https://www.python.org/">
+    <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JS" width="50">
+  </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50">
   </a>
   <a href="https://www.python.org/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="50">
+  </a>
+    <a href="https://www.python.org/">
     <img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" alt="Python" width="50">
   </a>
 </p>
