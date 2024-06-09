@@ -36,7 +36,7 @@
     <img src="https://logo-base.com/logo/visual_studio_code_logo_icon.png" alt="VS Code" width="50">
   </a>
     <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://iconscout.com/contributors/icon-54" alt="Code" width="50">
+    <img src="https://iconscout.com/free-icon/webstorm-3521803" alt="Code" width="50">
   </a>
 </p>
 
