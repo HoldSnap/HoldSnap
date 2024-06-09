@@ -35,8 +35,8 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://logo-base.com/logo/visual_studio_code_logo_icon.png" alt="VS Code" width="50">
   </a>
-    W<a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://img.icons8.com/color/48/webstorm.png" alt="VS Code" width="50">
+    <a href="https://www.jetbrains.com/webstorm/">
+    <img src="https://img.icons8.com/color/48/webstorm.png" alt=" Code" width="50">
   </a>
 </p>
 
