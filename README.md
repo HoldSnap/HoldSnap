@@ -39,10 +39,10 @@
 
 ## 🚀 About Me
 
-- 💻 **Full-stack Web Developer** working in the dark, crafting code in the shadows.
-- 🔌 REST API & WebSocket devotee, keeping connections alive like midnight signals.
-- ⚙️ Linux enthusiast & Docker fan – containerizing dreams in a dark cybernetic realm.
-- 🧠 Passionate about clean code, automation, and those elegant one-liners that illuminate the dark.
+- 💻 Full-stack Web Developer
+- 🔌 REST API & WebSocket enjoyer
+- ⚙️ Linux enthusiast & Docker enjoyer
+- 🤖 Building microservices, APIs and admin panels
 
 ---
 
@@ -50,13 +50,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,python,vue,html,css,postgres,docker,git,linux)](https://skillicons.dev)
 
-- **JavaScript / TypeScript** (Node.js, Vue 3) – powering dynamic experiences.
-- **Python** – for scripting, automation, and microservices behind the scenes.
-- **PostgreSQL** – managing structured data in a realm of order.
-- **Docker** – encapsulating everything in isolated, dark containers.
-- REST APIs and WebSocket-based real-time services.
-- Git + Linux – my trusted tools in the night.
-- VS Code in Dracula theme 🧛‍♂️ – where every line of code is bathed in dark elegance.
+- **JavaScript / TypeScript** for frontend and backend (Node.js)
+- **Python** for scripting and automation
+- **Vue.js 3** for frontend apps
+- **PostgreSQL** for reliable data storage
+- **Docker** for containerized environments
+- **Git**, **Linux**, and **VS Code** on a daily basis
+- Experience with REST APIs and WebSockets
 
 ---
 
@@ -85,7 +85,7 @@
   </a>
 </p>
 
----
+
 
 <details>
   <summary><strong>🎁 Secret Button</strong></summary>
@@ -96,7 +96,6 @@
   </p>
 </details>
 
----
 <!-- Граф активности -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img
